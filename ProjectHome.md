@@ -1,0 +1,1 @@
+Transform the description file to format that can be accepted by CharaParser.
